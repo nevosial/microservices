@@ -26,3 +26,4 @@
 - [Evolution of Microservices by Adrian Cockcroft](http://www.ustream.tv/recorded/86151804)
 - [Microservices by Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0)
+- [An Overview of Designing Microservices - AWS](https://www.youtube.com/watch?v=Ijs55IA8DIk)
