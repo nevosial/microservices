@@ -18,7 +18,7 @@
 ###### Platforms
 
 - [Docker hub](https://hub.docker.com/)
-- [Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [Kubernetes](https://kubernetes.io/)
 - [Istio](https://istio.io/)
 
 ##### Videos
